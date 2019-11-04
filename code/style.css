@@ -1,0 +1,32 @@
+/* Example styling of a h1 element */
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: floralwhite
+}
+
+h1 {
+  color: floralwhite;
+  font-size: 90px;
+  font-weight: bold;
+  padding: 20px;
+  background-image: url("best-pumpkin-chocolate-chip-cookies.jpg")
+}
+
+.info {
+  color: rgb(87, 31, 31);
+  text-align: left;
+  padding: 15px;
+  padding-left: 5px;
+}
+
+.links {
+  color: floralwhite;
+  background-color: rgba(83, 50, 50, 0.568);
+  height: 300px;
+  padding: 10px;
+}
+
+a {
+  color: rgb(87, 31, 31);
+}
